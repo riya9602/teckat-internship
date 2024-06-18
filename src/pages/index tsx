@@ -1,0 +1,6 @@
+import HomePage from "./HomePage";
+import StudentOutlet from "./StudentOutlet";
+import Student from "./Student";
+import CreateStudent from "./CreateStudent";
+
+export { HomePage, StudentOutlet, Student, CreateStudent };
